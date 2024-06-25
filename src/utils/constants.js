@@ -1,6 +1,6 @@
 
 export const URL = Object.freeze({
-    BASE_URL : 'http://localhost:4040/api',
+    BASE_URL : 'https://db-setup-4wts.onrender.com/api',
     Endpoint: {
         signup: "signup",
         login: "login",
